@@ -1,31 +1,25 @@
-<h1>Perfil de GitHub de Bruno Sosa</h1>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>¡Hola! Soy Bruno</h2>
 
-<h2>¡Hola! 👋 Soy Bruno Sosa, un desarrollador apasionado por la codificación y la creación de proyectos increíbles.</h2>
+### 👨🏻‍💻 &nbsp;Sobre mí
 
-<h3>Acerca de mí</h3>
-<p>Soy competente en varios lenguajes y frameworks, incluyendo HTML, CSS, JavaScript, Python, Django y SQL. Disfruto resolviendo problemas y creando soluciones elegantes.</p>
+💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos. .\
+🎓 &nbsp;Actualmente estoy estudiando Informatica en el Instituto Tecnologico Superior. .\
+🌱 &nbsp;Estoy en camino de aprender más sobre el mundo del desarrollo web. .\
+✍️ &nbsp;En mi tiempo libre, me dedico al pensar en posibles webs o aplicaciones como pasatiempos o actividades secundarias. .\
+💬 &nbsp;No dudes en comunicarte conmigo para tener una conversación interesante.\
+✉️ &nbsp;¡Puedes enviarme un correo electrónico a sosa.programmer@gmail.com Intentaré responder tan pronto como pueda.
 
-<h3>Algunos Datos Rápidos</h3>
-<ul>
-    <li>🔭 Actualmente estoy trabajando en mejorar mis habilidades en Desarrollo Full Stack.</li>
-    <li>🌱 Estoy continuamente aprendiendo y explorando nuevas tecnologías para mantenerme actualizado.</li>
-    <li>😄 Pronombres: él</li>
-    <li>💬 No dudes en contactarme si tienes alguna pregunta o necesitas ayuda con tus proyectos.</li>
-</ul>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-<h3>Proyectos y Cosas de Desarrollo:</h3>
-<details>
-    <summary><b>⚡ Estadísticas de GitHub</b></summary>
-    <!-- Insertar widget de estadísticas de GitHub aquí -->
-</details>
+### 🛠 &nbsp;Pila de tecnología
 
-<details>
-    <summary><b>👨‍💻 Proyectos de Código Abierto</b></summary>
-    <!-- Insertar lista de proyectos de código abierto aquí -->
-</details>
-
-<h3>¡Conectemos!</h3>
-<p>Puedes explorar mis proyectos aquí en GitHub y conectarte conmigo en <a href="#">LinkedIn</a>.</p>
-
-<hr>
-<p>Créditos: <a href="#">Tu Nombre</a></p>
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
